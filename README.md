@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nafisat, a passionate data science student.
+- 👋 Hi, I’m Nafisat, a passionate data scientist.
 - 👀 I’m interested in using and learning further ways of gaining insights from data, solve real-world problems and make data-driven decisions.
 - 🌱 I’m currently learning Machine Learning, Data Mining, Appied Statistics and Data Visualization.
 - 💞️ I’m looking to collaborate on exciting data science projects with impactful applications.
